@@ -37,7 +37,7 @@ funfacts:
       needs.
 career:
   enable: true
-  title: Job Opening
+  title: 部署
   job_item:
   - name: 企画部
     location: Hamburg, Germany
