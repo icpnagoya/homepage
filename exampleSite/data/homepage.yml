@@ -2,7 +2,7 @@
 banner:
   enable: true
   title: ICP Nagoya
-  content: '学生国際交流団体ICP名古屋        Life is all about meeting new people   '
+  content: '学生国際交流団体ICP名古屋 <br>Life is all about meeting new people   '
   image: images/icp_home.jpg
   button:
     enable: true
