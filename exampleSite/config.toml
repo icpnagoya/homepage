@@ -33,6 +33,11 @@ name = "Join us"
 pre = ""
 url = "career"
 weight = 4
+[[menu.main]]
+name = "Line"
+pre = ""
+url = "https://line.me/R/ti/p/%40601fdyvs"
+weight = ""
 [params]
 author = "Themefisher"
 contact_info = "ICP Nagoya <br>International communication party, <br>Japan"
