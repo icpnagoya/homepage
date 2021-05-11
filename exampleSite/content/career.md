@@ -39,8 +39,8 @@ career:
   enable: true
   title: 部署
   job_item:
-  - name: 企画部
-    location: Hamburg, Germany
+  - name: Planning department
+    location: Nagoya, Japan
     form_action: "#"
     about: With experience in creating visual directions for tech products, you are
       able to set the standard and lead designers along the way. You are not only
