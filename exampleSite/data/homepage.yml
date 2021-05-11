@@ -65,7 +65,7 @@ contact:
   title: reach us
   image: images/map-bg.jpg
   content: |-
-    Hi! This is International Communication Party Nagoya, ICP.
+    Hi! This is International Communication Party Nagoya, ICP.<br>
     We host international exchange events in Nagoya, providing an environment for students from all around the world to gather to meet and talk!! :)
 call_to_action:
   enable: true
