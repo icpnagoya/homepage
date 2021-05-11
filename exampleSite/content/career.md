@@ -42,14 +42,8 @@ career:
   - name: 企画部
     location: Nagoya, Japan
     form_action: "#"
-    about: |-
-      企画部は名前の通り、ICPに関わる全てのイベントの企画をしています。
-
-      国際交流パーティーのゲームやプログラムはもちろん、スタッフの親睦会（新年会、忘年会、合宿）を企画したりと本当にICPにとってはなくてはならない、心臓のような部署です。
-
-      活動内容、メンバーが多いのもこの部署の特徴!
-    experiences:
-    - '1'
+    about: ''
+    experiences: []
   - name: DevOps Engineer
     location: Hamburg, Germany
     form_action: "#"
