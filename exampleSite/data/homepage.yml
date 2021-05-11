@@ -58,10 +58,20 @@ product:
 
       ICPはSNSで活動を知ってもらうことが多いため、広報部もICPにはなくてはならない存在です。
     project_url: "#"
-  - title: Objects
-    image: images/product/product-02.jpg
-    content: Omega OS Version 2.0 is the world’s first and only cloud operating system.
-      See how this revolutionarys oftware can become the center of your business.
+  - title: 渉外部
+    image: images/syougai.png
+    content: |-
+      渉外って聞きなれない言葉ですよね...(笑)
+
+      こんなに難しそうな言葉ですが、中身はそんなに難しくないです！
+
+      渉外部は、簡単に言うと、
+
+      ICPに協力してくださる企業や他団体の方と連絡を取りあって、ICP名古屋と外部を繋げる部署です。
+
+      学生団体である私たちは、経済的に余裕があるわけではないので、企業の方の協力を得てイベントを開催することも多いのですが、その時に渉外部が重要な役割を果たします。
+
+      他にも他団体の方にコラボイベントの交渉をしたりします！
     project_url: "#"
   - title: Publisher
     image: images/product/product-03.jpg
