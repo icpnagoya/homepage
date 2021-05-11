@@ -2,7 +2,9 @@
 title: Join us
 layout: career
 description: cultural exchanges can enhance international friendship, and people can
-  acquire better understanding of each other.
+  acquire better understanding of each other.Through cultural exchanges, they can
+  learn of different peoples around the world, what they believe in, how they lead
+  their daily life, and their traditions and customs.
 about:
   enable: true
   title: Who we're looking for
