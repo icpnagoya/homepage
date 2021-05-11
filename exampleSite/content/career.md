@@ -19,7 +19,7 @@ gallery:
   - images/gallery/gallery-03.png
 funfacts:
   enable: true
-  title: amenities for you to enjoy
+  title: Come and join us！
   funfacts_item:
   - name: "①"
     icon: fa-bicycle
