@@ -19,12 +19,11 @@ mission:
   video_id: ResipmZmpDU
 vision:
   enable: true
-  section: VISION
+  section: 運営スタッフ
   vision_item:
   - title: People First
     image: images/vision/vision-01.jpg
-    content: I started with a vision of creating an atmosphere where people come first.
-      <br>Paul Sanar Founder
+    content: パーティーに向けて  ゲームの企画を練り<br>プログラムを考え
   - title: Employee Culture
     image: images/vision/vision-02.jpg
     content: I started with a vision of creating an atmosphere where people come first.
