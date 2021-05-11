@@ -39,7 +39,7 @@ career:
   enable: true
   title: department
   job_item:
-  - name: Planning department
+  - name: 企画部
     location: Nagoya, Japan
     form_action: "#"
     about: With experience in creating visual directions for tech products, you are
