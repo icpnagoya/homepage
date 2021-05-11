@@ -1,8 +1,8 @@
 ---
 title: Join us
 layout: career
-description: Do what you enjoy, invest for your future and reap the benefits of working
-  with the worlds first advancement company that puts people first.
+description: Do what you enjoy, cultural exchanges can enhance international friendship,
+  and people can acquire better understanding of each other.
 about:
   enable: true
   title: Who we're looking for
