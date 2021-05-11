@@ -50,7 +50,7 @@ career:
     - Dynamic presentation and communication skills
     - 'Self-motivation: You manage your own milestones, deadlines, and priorities'
   - name: 広報部
-    location: Hamburg, Germany
+    location: Nagoya,Japan
     form_action: "#"
     about: With experience in creating visual directions for tech products, you are
       able to set the standard and lead designers along the way. You are not only
