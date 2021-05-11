@@ -15,16 +15,6 @@ pre = "#"
 url = "mission"
 weight = 2
 [[menu.main]]
-name = "Department"
-pre = "#"
-url = "products"
-weight = 3
-[[menu.main]]
-name = "Join us"
-pre = ""
-url = "career"
-weight = 4
-[[menu.main]]
 name = "Instagram"
 url = "https://www.instagram.com/icpnagoya/"
 weight = ""
@@ -38,6 +28,11 @@ name = "Facebook"
 pre = ""
 url = "https://www.facebook.com/ICPNagoya/"
 weight = ""
+[[menu.main]]
+name = "Join us"
+pre = ""
+url = "career"
+weight = 4
 [params]
 author = "Themefisher"
 contact_info = "ICP Nagoya <br>International communication party, <br>Japan"
