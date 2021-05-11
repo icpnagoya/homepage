@@ -6,7 +6,7 @@ description: Do what you enjoy, invest for your future and reap the benefits of 
 about:
   enable: true
   title: Who we're looking for
-  content: Bright, educated and hard working individuals who put professionalism first.
+  content: " If you are interested in international exchange,that's enough."
   video_thumb: images/promo-video-thumbnail.jpg
   video_id: g3-VxLQO7do
 gallery:
