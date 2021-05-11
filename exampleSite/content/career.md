@@ -21,13 +21,12 @@ funfacts:
   enable: true
   title: amenities for you to enjoy
   funfacts_item:
-  - name: 見学
+  - name: "①"
     icon: fa-bicycle
     content: 全体ミーティングの日(月曜20時）はいつでも誰でも見学可能です
-  - name: Free Snacks
+  - name: "②"
     icon: fa-bell-o
-    content: Tight schedule, tell us so we can tailor the schedule that fits your
-      needs.
+    content: ICPの公式LINE・InstagramDM・Twitterのいずれかを使って、話しかけてみてください！スタッフが対応いたします
   - name: Recreation
     icon: fa-microchip
     content: Tight schedule, tell us so we can tailor the schedule that fits your
