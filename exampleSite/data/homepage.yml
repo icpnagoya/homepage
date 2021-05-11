@@ -73,10 +73,14 @@ product:
 
       他にも他団体の方にコラボイベントの交渉をしたりします！
     project_url: "#"
-  - title: Publisher
-    image: images/product/product-03.jpg
-    content: Omega OS Version 2.0 is the world’s first and only cloud operating system.
-      See how this revolutionarys oftware can become the center of your business.
+  - title: 人事部
+    image: images/jinji.png
+    content: |-
+      人事部は団体のメンバーに関する仕事をしています。
+
+      新しく仲間になってくれたICPのメンバーのフォローやスタッフのモチベーション維持を主に担当しています。
+
+      どの部署もなくてはならない存在ですビックリマーク
     project_url: "#"
 contact:
   enable: true
