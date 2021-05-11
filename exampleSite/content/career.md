@@ -35,7 +35,7 @@ funfacts:
     content: ICPはいつでもメンバーを募集しています
 career:
   enable: true
-  title: department
+  title: 部署
   job_item:
   - name: 企画部
     location: Nagoya, Japan
