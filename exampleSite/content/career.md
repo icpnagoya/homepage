@@ -27,10 +27,9 @@ funfacts:
   - name: "②"
     icon: fa-bell-o
     content: ICPの公式LINE・InstagramDM・Twitterのいずれかを使って、話しかけてみてください！スタッフが対応いたします
-  - name: Recreation
+  - name: "③"
     icon: fa-microchip
-    content: Tight schedule, tell us so we can tailor the schedule that fits your
-      needs.
+    content: 一度ZOOMや電話でお話しさせてもらってから、メンバーに入るかどうか考えてもらいます
   - name: 5 Working Days
     icon: fa-plug
     content: Tight schedule, tell us so we can tailor the schedule that fits your
