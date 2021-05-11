@@ -23,7 +23,7 @@ funfacts:
   funfacts_item:
   - name: "①"
     icon: fa-bicycle
-    content: 全体ミーティングの日(月曜20時）はいつでも誰でも見学可能です
+    content: 全体ミーティングの日(月曜20時)はいつでも誰でも見学可能です
   - name: "②"
     icon: fa-bell-o
     content: ICPの公式LINE・InstagramDM・Twitterのいずれかスタッフが対応いたします
