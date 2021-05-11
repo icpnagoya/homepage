@@ -21,10 +21,9 @@ funfacts:
   enable: true
   title: amenities for you to enjoy
   funfacts_item:
-  - name: Flexible hours
+  - name: 見学
     icon: fa-bicycle
-    content: Tight schedule, tell us so we can tailor the schedule that fits your
-      needs.
+    content: 全体ミーティングの日(月曜20時）はいつでも誰でも見学可能です
   - name: Free Snacks
     icon: fa-bell-o
     content: Tight schedule, tell us so we can tailor the schedule that fits your
