@@ -37,7 +37,7 @@ funfacts:
       needs.
 career:
   enable: true
-  title: 部署
+  title: department
   job_item:
   - name: Planning department
     location: Nagoya, Japan
