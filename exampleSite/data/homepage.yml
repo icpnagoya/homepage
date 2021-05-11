@@ -10,11 +10,13 @@ banner:
     link: "#products"
 mission:
   enable: true
-  title: Propel Advancement
+  title: 理念<br>Concepts
   section: MISSION
-  content: Introducing the world’s first Advancement Company. As we enter the dawn
-    of the digital age a significant leap must be made to propel the world into the
-    age of advancement.
+  content: |-
+    「LIFE IS ALL ABOUT MEETING NEW PEOPLE」<br>
+    ーYou don't need to leave the country to experience the world-<br>
+    学生同士が繋がり合い、<br>
+    日本から世界級のコミュニティーを作ることを目標に活動しています
   video_thumb: images/video-thumb.jpg
   video_id: ResipmZmpDU
 vision:
