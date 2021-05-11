@@ -53,7 +53,7 @@ link = "https://twitter.com/icpnagoya"
 title = "twitter"
 [[params.social]]
 icon = "fa-instagram"
-link = "#"
+link = "https://www.instagram.com/icpnagoya/"
 title = "instagram"
 [[params.social]]
 icon = "fa-facebook"
