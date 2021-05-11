@@ -29,6 +29,20 @@ name = "Contact"
 pre = "#"
 url = "contact"
 weight = 5
+[[menu.main]]
+name = "Instagram"
+url = "https://www.instagram.com/icpnagoya/"
+weight = ""
+[[menu.main]]
+name = ""
+pre = ""
+url = ""
+weight = ""
+[[menu.main]]
+name = ""
+pre = ""
+url = ""
+weight = ""
 [params]
 author = "Themefisher"
 contact_info = "1001 Brickell bay <br>Dr. Miami, <br>FL 33131"
