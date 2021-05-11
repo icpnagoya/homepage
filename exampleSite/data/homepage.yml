@@ -35,12 +35,16 @@ vision:
       <br>Paul Sanar Founder
 product:
   enable: true
-  section: Products
+  section: Department
   title: Some Of Our Best Products
   content: See the innovation that has come through the Rio way. As an advancement
     company, the goal is to continuously find areas to help business push forward.
     Below you can find the first product available to help you do so.
   product_item:
+  - title: ''
+    image: ''
+    content: ''
+    project_url: ''
   - title: Ecosystem
     image: images/product/product-03.jpg
     content: Omega OS Version 2.0 is the world’s first and only cloud operating system.
