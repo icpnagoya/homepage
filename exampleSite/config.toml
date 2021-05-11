@@ -34,9 +34,9 @@ name = "Instagram"
 url = "https://www.instagram.com/icpnagoya/"
 weight = ""
 [[menu.main]]
-name = ""
+name = "Twitter"
 pre = ""
-url = ""
+url = "https://twitter.com/icpnagoya"
 weight = ""
 [[menu.main]]
 name = ""
