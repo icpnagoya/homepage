@@ -26,7 +26,7 @@ funfacts:
     content: 全体ミーティングの日(月曜20時）はいつでも誰でも見学可能です
   - name: "②"
     icon: fa-bell-o
-    content: ICPの公式LINE・InstagramDM・Twitterのいずれかを使って、話しかけてみてください！スタッフが対応いたします
+    content: ICPの公式LINE・InstagramDM・Twitterのいずれかスタッフが対応いたします
   - name: "③"
     icon: fa-microchip
     content: 一度ZOOMや電話でお話しさせてもらってから、メンバーに入るかどうか考えてもらいます
