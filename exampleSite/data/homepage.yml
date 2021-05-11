@@ -36,9 +36,7 @@ product:
   enable: true
   section: Department
   title: 運営メンバーについて
-  content: See the innovation that has come through the Rio way. As an advancement
-    company, the goal is to continuously find areas to help business push forward.
-    Below you can find the first product available to help you do so.
+  content: ICPにはどのような部署が存在しているでしょうか
   product_item:
   - title: ''
     image: images/product/product-02.jpg
