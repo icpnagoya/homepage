@@ -20,7 +20,7 @@ pre = "#"
 url = "products"
 weight = 3
 [[menu.main]]
-name = "Career"
+name = "Join us"
 pre = ""
 url = "career"
 weight = 4
