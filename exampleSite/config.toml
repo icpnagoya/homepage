@@ -34,14 +34,14 @@ name = "Instagram"
 url = "https://www.instagram.com/icpnagoya/"
 weight = ""
 [[menu.main]]
-name = "Twitter"
-pre = ""
-url = "https://twitter.com/icpnagoya"
-weight = ""
-[[menu.main]]
 name = "Facebook"
 pre = ""
 url = "https://www.facebook.com/ICPNagoya/"
+weight = ""
+[[menu.main]]
+name = "Twitter"
+pre = ""
+url = "https://twitter.com/icpnagoya"
 weight = ""
 [params]
 author = "Themefisher"
