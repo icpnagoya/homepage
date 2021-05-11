@@ -36,7 +36,7 @@ product:
   enable: true
   section: Department
   title: 運営メンバーについて
-  content: ICPにはどのような部署が存在しているでしょうか
+  content: ICPにはどのような部署が存在しているのでしょうか
   product_item:
   - title: ''
     image: images/product/product-02.jpg
