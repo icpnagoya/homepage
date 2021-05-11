@@ -39,18 +39,16 @@ career:
   enable: true
   title: Job Opening
   job_item:
-  - name: Android Developer
-    location: Hamburg, Germany
+  - name: 企画部
+    location: Nagoya, Japan
     form_action: "#"
-    about: With experience in creating visual directions for tech products, you are
-      able to set the standard and lead designers along the way. You are not only
-      able to execute beautiful user experiences yourself but communicate those concepts
-      to the team and clients.
-    experiences:
-    - "3+ years Development\texperience in a startup environment"
-    - Strong knowledge of iOS, Android & Web Platforms
-    - Dynamic presentation and communication skills
-    - 'Self-motivation: You manage your own milestones, deadlines, and priorities'
+    about: |-
+      企画部は名前の通り、ICPに関わる全てのイベントの企画をしています。
+
+      国際交流パーティーのゲームやプログラムはもちろん、スタッフの親睦会（新年会、忘年会、合宿）を企画したりと本当にICPにとってはなくてはならない、心臓のような部署です。
+
+      活動内容、メンバーが多いのもこの部署の特徴!
+    experiences: []
   - name: DevOps Engineer
     location: Hamburg, Germany
     form_action: "#"
