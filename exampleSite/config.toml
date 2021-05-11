@@ -39,9 +39,9 @@ pre = ""
 url = "https://twitter.com/icpnagoya"
 weight = ""
 [[menu.main]]
-name = ""
+name = "Facebook"
 pre = ""
-url = ""
+url = "https://www.facebook.com/ICPNagoya/"
 weight = ""
 [params]
 author = "Themefisher"
