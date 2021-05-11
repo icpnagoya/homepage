@@ -51,8 +51,8 @@ product:
   - title: 渉外部
     image: images/syougai.png
     content: |-
-      ICPに協力してくださる企業や他団体の方と連絡を取りあって、ICP名古屋と外部を繋げる部署です<br>
-      他にも他団体の方にコラボイベントの交渉をしたりします
+      ICPに協力してくださる企業や他団体の方と連絡を取りあって、ICP名古屋と外部を繋げる部署です。<br>
+      他にも他団体の方にコラボイベントの交渉をしたりします。
     project_url: "#"
   - title: 人事部
     image: images/jinji.png
