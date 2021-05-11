@@ -57,7 +57,7 @@ product:
       See how this revolutionarys oftware can become the center of your business.
     project_url: "#"
 contact:
-  enable: true
+  enable: false
   section: CONTACT US
   title: reach us
   image: images/map-bg.jpg
