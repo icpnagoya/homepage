@@ -40,7 +40,7 @@ url = "https://www.facebook.com/ICPNagoya/"
 weight = ""
 [params]
 author = "Themefisher"
-contact_info = "Japan <br>International communication party, <br>ICP Nagoya"
+contact_info = "ICP Nagoya <br>International communication party, <br>Japan"
 description = "This is meta description"
 logo = "images/icplogo.png"
 logo_width = "120px"
