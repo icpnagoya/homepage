@@ -41,7 +41,7 @@ career:
   job_item:
   - name: 企画部
     location: Nagoya, Japan
-    form_action: "#"
+    form_action: https://ameblo.jp/icpnagoya/entry-12652560281.html
     about: |-
       企画部は名前の通り、ICPに関わる全てのイベントの企画をしています。
 
