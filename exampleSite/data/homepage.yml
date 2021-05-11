@@ -47,10 +47,16 @@ product:
 
       活動内容、メンバーが多いのもこの部署の特徴!
     project_url: "#"
-  - title: Ecosystem
-    image: images/product/product-03.jpg
-    content: Omega OS Version 2.0 is the world’s first and only cloud operating system.
-      See how this revolutionarys oftware can become the center of your business.
+  - title: 広報部
+    image: images/kouho.png
+    content: |-
+      広報部は、ICPのことを沢山の人に知ってもらうために宣伝をする部署です。
+
+      InstagramやTwitterでの広報・運営などを行っています。
+
+      イベント情報のほかにも、みなさんにICPのことを身近に感じてもらえるような投稿をしたりもします
+
+      ICPはSNSで活動を知ってもらうことが多いため、広報部もICPにはなくてはならない存在です。
     project_url: "#"
   - title: Objects
     image: images/product/product-02.jpg
