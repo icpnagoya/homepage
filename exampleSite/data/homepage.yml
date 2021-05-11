@@ -19,7 +19,7 @@ mission:
   video_id: ResipmZmpDU
 vision:
   enable: true
-  section: 運営スタッフ
+  section: Staff
   vision_item:
   - title: 企画
     image: images/vision/vision-01.jpg
