@@ -6,8 +6,8 @@ banner:
   image: images/icp_home.jpg
   button:
     enable: true
-    label: Event  (coming soon)
-    link: "#products"
+    label: 'Event '
+    link: asdaca
 mission:
   enable: true
   title: Concepts理念
