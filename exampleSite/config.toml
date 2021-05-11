@@ -52,6 +52,10 @@ map_marker = "images/map-marker.png"
 map_position_lat = ""
 map_position_lng = ""
 [[params.social]]
+icon = "fa-line"
+link = "https://t.co/IHs2pg7mge"
+title = "Line"
+[[params.social]]
 icon = "fa-twitter"
 link = "https://twitter.com/icpnagoya"
 title = "twitter"
