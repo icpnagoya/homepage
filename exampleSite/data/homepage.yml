@@ -45,12 +45,8 @@ product:
   - title: 広報部
     image: images/kouhou.png
     content: |-
-      広報部は、ICPのことを沢山の人に知ってもらうために宣伝をする部署です。
-
       InstagramやTwitterでの広報・運営などを行っています。
-
       イベント情報のほかにも、みなさんにICPのことを身近に感じてもらえるような投稿をしたりもします
-
       ICPはSNSで活動を知ってもらうことが多いため、広報部もICPにはなくてはならない存在です。
     project_url: "#"
   - title: 渉外部
