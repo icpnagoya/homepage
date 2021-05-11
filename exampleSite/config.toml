@@ -5,30 +5,30 @@ title = "ICP"
 [markup.goldmark.renderer]
 unsafe = true
 [[menu.main]]
-name = "Contact"
-pre = "#"
-url = "contact"
-weight = 5
-[[menu.main]]
-name = "Join us"
+name = "Home"
 pre = ""
-url = "career"
-weight = 4
-[[menu.main]]
-name = "Products"
-pre = "#"
-url = "products"
-weight = 3
+url = "/"
+weight = 1
 [[menu.main]]
 name = "About"
 pre = "#"
 url = "mission"
 weight = 2
 [[menu.main]]
-name = "Home"
+name = "Products"
+pre = "#"
+url = "products"
+weight = 3
+[[menu.main]]
+name = "Join us"
 pre = ""
-url = "/"
-weight = 1
+url = "career"
+weight = 4
+[[menu.main]]
+name = "Contact"
+pre = "#"
+url = "contact"
+weight = 5
 [params]
 author = "Themefisher"
 contact_info = "1001 Brickell bay <br>Dr. Miami, <br>FL 33131"
@@ -41,7 +41,7 @@ enable = true
 expire_days = 2
 [params.map]
 enable = false
-gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyASMH8xTZ08wupgzDiJtOQFqHPQFhnWRWM"
+gmap_api = ""
 map_center_lat = "25.773606"
 map_center_lng = "-80.732655"
 map_marker = "images/map-marker.png"
