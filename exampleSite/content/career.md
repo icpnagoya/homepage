@@ -30,10 +30,9 @@ funfacts:
   - name: "③"
     icon: fa-microchip
     content: 一度ZOOMや電話でお話しさせてもらってから、メンバーに入るかどうか考えてもらいます
-  - name: 5 Working Days
+  - name: "④"
     icon: fa-plug
-    content: Tight schedule, tell us so we can tailor the schedule that fits your
-      needs.
+    content: ICPはいつでもメンバーを募集しています
 career:
   enable: true
   title: department
