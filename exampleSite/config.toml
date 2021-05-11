@@ -35,7 +35,7 @@ contact_info = "1001 Brickell bay <br>Dr. Miami, <br>FL 33131"
 description = "This is meta description"
 logo = "images/logo.png"
 logo_width = "120px"
-preloader = true
+preloader = false
 [params.cookies]
 enable = true
 expire_days = 2
