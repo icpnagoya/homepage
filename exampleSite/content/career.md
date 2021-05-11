@@ -1,8 +1,8 @@
 ---
 title: Join us
 layout: career
-description: Do what you enjoy, cultural exchanges can enhance international friendship,
-  and people can acquire better understanding of each other.
+description: cultural exchanges can enhance international friendship, and people can
+  acquire better understanding of each other.
 about:
   enable: true
   title: Who we're looking for
