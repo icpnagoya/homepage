@@ -39,7 +39,7 @@ product:
   content: ICPにはどのような部署が存在しているのでしょうか
   product_item:
   - title: ''
-    image: images/product/product-02.jpg
+    image: images/kikaku.jpg
     content: ''
     project_url: "#"
   - title: Ecosystem
