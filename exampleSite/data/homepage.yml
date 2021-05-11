@@ -21,13 +21,12 @@ vision:
   enable: true
   section: 運営スタッフ
   vision_item:
-  - title: People First
+  - title: 企画
     image: images/vision/vision-01.jpg
     content: パーティーに向けて  ゲームの企画を練り<br>プログラムを考え
-  - title: Employee Culture
+  - title: 会場を抑え
     image: images/vision/vision-02.jpg
-    content: I started with a vision of creating an atmosphere where people come first.
-      <br>Paul Sanar Founder
+    content: 広報+集客をし<br>会場の設営や進行をしたりする役割
   - title: The Omega Way
     image: images/vision/vision-03.jpg
     content: I started with a vision of creating an atmosphere where people come first.
