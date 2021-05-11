@@ -27,10 +27,9 @@ vision:
   - title: 会場を抑え
     image: images/vision/vision-02.jpg
     content: 広報+集客をし<br>会場の設営や進行をしたりする役割
-  - title: The Omega Way
+  - title: スタッフ
     image: images/vision/vision-03.jpg
-    content: I started with a vision of creating an atmosphere where people come first.
-      <br>Paul Sanar Founder
+    content: 参加するだけでは得られない達成感や満足感を得られる
 product:
   enable: true
   section: Department
