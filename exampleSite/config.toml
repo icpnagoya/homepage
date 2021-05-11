@@ -25,11 +25,6 @@ pre = ""
 url = "career"
 weight = 4
 [[menu.main]]
-name = "Contact"
-pre = "#"
-url = "contact"
-weight = 5
-[[menu.main]]
 name = "Instagram"
 url = "https://www.instagram.com/icpnagoya/"
 weight = ""
