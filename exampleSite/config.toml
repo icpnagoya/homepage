@@ -40,7 +40,7 @@ preloader = true
 enable = true
 expire_days = 2
 [params.map]
-enable = false
+enable = true
 gmap_api = ""
 map_center_lat = ""
 map_center_lng = ""
