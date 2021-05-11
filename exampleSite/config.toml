@@ -49,7 +49,7 @@ map_position_lat = ""
 map_position_lng = ""
 [[params.social]]
 icon = "fa-twitter"
-link = "#"
+link = "https://twitter.com/icpnagoya"
 title = "twitter"
 [[params.social]]
 icon = "fa-instagram"
