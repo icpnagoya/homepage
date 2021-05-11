@@ -42,9 +42,9 @@ product:
     Below you can find the first product available to help you do so.
   product_item:
   - title: ''
-    image: ''
+    image: images/product/product-02.jpg
     content: ''
-    project_url: ''
+    project_url: "#"
   - title: Ecosystem
     image: images/product/product-03.jpg
     content: Omega OS Version 2.0 is the world’s first and only cloud operating system.
