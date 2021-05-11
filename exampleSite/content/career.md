@@ -49,7 +49,7 @@ career:
 
       活動内容、メンバーが多いのもこの部署の特徴!
     experiences:
-    - ''
+    - '1'
   - name: DevOps Engineer
     location: Hamburg, Germany
     form_action: "#"
