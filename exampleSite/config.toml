@@ -1,5 +1,5 @@
 baseURL = "https://icpnagoya.com"
-googleAnalytics = "icpnagoya"
+googleAnalytics = "名古屋学生国際交流団体ICP Nagoya"
 theme = "omega"
 title = "ICP Nagoya"
 [markup.goldmark.renderer]
