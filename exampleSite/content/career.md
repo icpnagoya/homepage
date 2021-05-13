@@ -1,6 +1,6 @@
 ---
 title: Join us
-layout: career
+layout: join us
 description: cultural exchanges can enhance international friendship, and people can
   acquire better understanding of each other.Through cultural exchanges, they can
   learn of different peoples around the world, what they believe in, how they lead
