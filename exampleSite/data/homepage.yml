@@ -7,7 +7,7 @@ banner:
   button:
     enable: true
     label: 'Event '
-    link: asdaca
+    link: event
 mission:
   enable: true
   title: Concepts理念
