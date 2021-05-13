@@ -1,5 +1,5 @@
-baseURL = "https://examplesite.com"
-googleAnalytics = ""
+baseURL = "https://icpnagoya.com"
+googleAnalytics = "icpnagoya"
 theme = "omega"
 title = "ICP Nagoya"
 [markup.goldmark.renderer]
