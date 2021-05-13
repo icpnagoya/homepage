@@ -1,5 +1,5 @@
 ---
-title: Comming Soon
+title: Coming Soon
 layout: career
 description: このページは製作中です
 
