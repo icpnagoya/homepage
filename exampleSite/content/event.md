@@ -1,6 +1,6 @@
 ---
-title: Comming　soon
+title: Comming
 layout: career
-description: このページは製作中です
+description: soon<br>このページは製作中です
 
 ---
