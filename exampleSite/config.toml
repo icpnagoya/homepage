@@ -1,7 +1,7 @@
 baseURL = "https://icpnagoya.com"
 googleAnalytics = "名古屋学生国際交流団体ICP Nagoya"
 theme = "omega"
-title = "ICP Nagoya"
+title = "ICP Nagoya|名古屋の学生国際交流団体"
 [markup.goldmark.renderer]
 unsafe = true
 [[menu.main]]
