@@ -40,7 +40,7 @@ career:
   - name: Planning Department
     location: Nagoya, Japan
     form_action: "#"
-    about: 国際交流パーティーのゲームやプログラムはもちろん、スタッフの親睦会（新年会、忘年会、合宿）を企画したりします。
+    about: In addition to games and programs for international exchange parties.
   - name: Public Relations Department
     location: Nagoya,Japan
     form_action: "#"
