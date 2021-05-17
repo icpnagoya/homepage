@@ -41,7 +41,7 @@ career:
     location: Nagoya, Japan
     form_action: "#"
     about: 国際交流パーティーのゲームやプログラムはもちろん、スタッフの親睦会（新年会、忘年会、合宿）を企画したりします。
-  - name: 広報部
+  - name: Public Relations Department
     location: Nagoya,Japan
     form_action: "#"
     about: With experience in creating visual directions for tech products, you are
