@@ -44,9 +44,7 @@ career:
   - name: Public Relations Department
     location: Nagoya,Japan
     form_action: "#"
-    about: We carry out public relations and management on Instagram and Twitter.
-      <br> In addition to event information, we also post posts that make everyone
-      feel closer to ICP.
+    about: 'We carry out public relations and management on Instagram and Twitter. '
   - name: Client Liaison　Department
     location: Nagoya,Japan
     form_action: "#"
