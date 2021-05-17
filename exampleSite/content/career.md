@@ -35,7 +35,7 @@ funfacts:
     content: ICPはいつでもメンバーを募集しています
 career:
   enable: true
-  title: 部署
+  title: Department
   job_item:
   - name: Planning Department
     location: Nagoya, Japan
@@ -48,7 +48,6 @@ career:
       able to set the standard and lead designers along the way. You are not only
       able to execute beautiful user experiences yourself but communicate those concepts
       to the team and clients.
-    
   - name: Client Liaison　Department
     location: Nagoya,Japan
     form_action: "#"
