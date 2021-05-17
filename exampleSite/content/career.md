@@ -37,13 +37,10 @@ career:
   enable: true
   title: 部署
   job_item:
-  - name: 企画部
+  - name: Planning Department
     location: Nagoya, Japan
     form_action: "#"
-    about: With experience in creating visual directions for tech products, you are
-      able to set the standard and lead designers along the way. You are not only
-      able to execute beautiful user experiences yourself but communicate those concepts
-      to the team and clients.
+    about: 国際交流パーティーのゲームやプログラムはもちろん、スタッフの親睦会（新年会、忘年会、合宿）を企画したりします。
     experiences:
     - "3+ years Development\texperience in a startup environment"
     - Strong knowledge of iOS, Android & Web Platforms
