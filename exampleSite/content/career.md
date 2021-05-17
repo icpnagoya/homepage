@@ -50,5 +50,9 @@ career:
     form_action: "#"
     about: 'It is a department that connects ICP Nagoya and the outside by keeping
       in touch with companies and other organizations that cooperate with ICP. '
+  - location: Nagoya,Japan
+    form_action: "#"
+    about: Any questions
+    name: Ｃontact　Us
 
 ---
