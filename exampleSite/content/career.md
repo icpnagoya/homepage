@@ -53,7 +53,7 @@ career:
     - Strong knowledge of iOS, Android & Web Platforms
     - Dynamic presentation and communication skills
     - 'Self-motivation: You manage your own milestones, deadlines, and priorities'
-  - name: client liaison
+  - name: Client Liaison　Department
     location: Nagoya,Japan
     form_action: "#"
     about: With experience in creating visual directions for tech products, you are
