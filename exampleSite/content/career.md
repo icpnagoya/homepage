@@ -44,10 +44,9 @@ career:
   - name: Public Relations Department
     location: Nagoya,Japan
     form_action: "#"
-    about: With experience in creating visual directions for tech products, you are
-      able to set the standard and lead designers along the way. You are not only
-      able to execute beautiful user experiences yourself but communicate those concepts
-      to the team and clients.
+    about: We carry out public relations and management on Instagram and Twitter.
+      <br> In addition to event information, we also post posts that make everyone
+      feel closer to ICP.
   - name: Client Liaison　Department
     location: Nagoya,Japan
     form_action: "#"
