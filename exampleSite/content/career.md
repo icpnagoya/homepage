@@ -48,9 +48,7 @@ career:
   - name: Client Liaison　Department
     location: Nagoya,Japan
     form_action: "#"
-    about: With experience in creating visual directions for tech products, you are
-      able to set the standard and lead designers along the way. You are not only
-      able to execute beautiful user experiences yourself but communicate those concepts
-      to the team and clients.
+    about: 'It is a department that connects ICP Nagoya and the outside by keeping
+      in touch with companies and other organizations that cooperate with ICP. '
 
 ---
