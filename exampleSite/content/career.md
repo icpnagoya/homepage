@@ -42,7 +42,9 @@ career:
     form_action: "#"
     about: 国際交流パーティーのゲームやプログラムはもちろん、スタッフの親睦会（新年会、忘年会、合宿）を企画したりします。
     experiences:
-    - ''
+    - In addition to games and programs for international exchange parties, we also
+      organize staff social gatherings (New Year's party, year-end party, training
+      camp).
   - name: 広報部
     location: Nagoya,Japan
     form_action: "#"
