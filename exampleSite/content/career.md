@@ -48,11 +48,7 @@ career:
       able to set the standard and lead designers along the way. You are not only
       able to execute beautiful user experiences yourself but communicate those concepts
       to the team and clients.
-    experiences:
-    - "3+ years Development\texperience in a startup environment"
-    - Strong knowledge of iOS, Android & Web Platforms
-    - Dynamic presentation and communication skills
-    - 'Self-motivation: You manage your own milestones, deadlines, and priorities'
+    
   - name: Client Liaison　Department
     location: Nagoya,Japan
     form_action: "#"
@@ -60,10 +56,5 @@ career:
       able to set the standard and lead designers along the way. You are not only
       able to execute beautiful user experiences yourself but communicate those concepts
       to the team and clients.
-    experiences:
-    - "3+ years Development\texperience in a startup environment"
-    - Strong knowledge of iOS, Android & Web Platforms
-    - Dynamic presentation and communication skills
-    - 'Self-motivation: You manage your own milestones, deadlines, and priorities'
 
 ---
