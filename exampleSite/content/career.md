@@ -41,11 +41,7 @@ career:
     location: Nagoya, Japan
     form_action: "#"
     about: 国際交流パーティーのゲームやプログラムはもちろん、スタッフの親睦会（新年会、忘年会、合宿）を企画したりします。
-    experiences:
-    - "3+ years Development\texperience in a startup environment"
-    - Strong knowledge of iOS, Android & Web Platforms
-    - Dynamic presentation and communication skills
-    - 'Self-motivation: You manage your own milestones, deadlines, and priorities'
+    experiences: []
   - name: 広報部
     location: Nagoya,Japan
     form_action: "#"
