@@ -1,6 +1,6 @@
 ---
 title: 国際交流パーティー
-layout: single
+layout: forms
 description: International communication party
 
 ---
