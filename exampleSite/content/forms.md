@@ -1,6 +1,6 @@
 ---
-title: Forms
+title: 国際交流パーティー
 layout: single
-description: xxxxx
+description: International ommunication party
 
 ---
