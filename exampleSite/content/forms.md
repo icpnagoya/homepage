@@ -1,6 +1,6 @@
 ---
-title: 国際交流パーティー
+title: お問い合わせ
 layout: forms
-description: International communication party
+description: contact us
 
 ---
