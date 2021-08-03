@@ -8,20 +8,20 @@
 	<div style="width:100%;text-align:center">
 	<form name="contact" method="POST" netlify>
 		<p>
-		  <label>Your Name: <input type="text" name="name" /></label>
+		  <label>Your Name*: <input type="text" name="name" /></label>
 		</p>
 		<p>
-		  <label>Your Email: <input type="email" name="email" /></label>
+		  <label>Your Email*: <input type="email" name="email" /></label>
 		</p>
 		<p>
-		  <label>Your Role: <select name="role[]" multiple>
-			<option value="leader">Leader</option>
-			<option value="follower">Follower</option>
-			<option value="1">Follower</option>
+		  <label>性別*: <select name="sex[]" multiple>
+			<option value="男 male">男 male</option>
+			<option value="女 female">女 female</option>
+			<option value="回答しない">do not answer</option>
 		  </select></label>
 		</p>
 		<p>
-		  <label>Message: <textarea name="message"></textarea></label>
+		  <label>Message: <textarea name="message(optional)"></textarea></label>
 		</p>
 		<p>
 		  <button type="submit">Send</button>
