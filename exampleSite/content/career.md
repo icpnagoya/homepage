@@ -39,7 +39,7 @@ career:
   job_item:
   - name: Planning Department
     location: Nagoya, Japan
-    form_action: "../forms"
+    form_action: "#"
     about: In addition to games and programs for international exchange parties.
   - name: Public Relations Department
     location: Nagoya,Japan
