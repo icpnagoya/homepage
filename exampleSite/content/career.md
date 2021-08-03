@@ -47,7 +47,7 @@ career:
     about: 'We carry out public relations and management on Instagram and Twitter. '
   - name: Client Liaison　Department
     location: Nagoya,Japan
-    form_action: https://www.icpnagoya.com/forms/
+    form_action: "../forms"
     about: 'It is a department that connects ICP Nagoya and the outside by keeping
       in touch with companies and other organizations that cooperate with ICP. '
 
