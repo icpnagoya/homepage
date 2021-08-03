@@ -59,7 +59,7 @@ product:
     content: |-
       人事部は団体のメンバーに関する仕事をしています。<br>
       新しく仲間になってくれたICPのメンバーのフォローやスタッフのモチベーション維持を主に担当しています。
-    project_url: "#"
+    project_url: https://www.icpnagoya.com/forms/
 contact:
   enable: true
   section: CONTACT US
