@@ -39,15 +39,15 @@ career:
   job_item:
   - name: Planning Department
     location: Nagoya, Japan
-    project_url: https://www.icpnagoya.com/forms/ 
+    form_action : https://www.icpnagoya.com/forms/ 
     about: In addition to games and programs for international exchange parties.
   - name: Public Relations Department
     location: Nagoya,Japan
-    project_url: https://www.icpnagoya.com/forms/
+    form_action : https://www.icpnagoya.com/forms/
     about: 'We carry out public relations and management on Instagram and Twitter. '
   - name: Client Liaison　Department
     location: Nagoya,Japan
-    project_url: https://www.icpnagoya.com/forms/
+    form_action : https://www.icpnagoya.com/forms/
     about: 'It is a department that connects ICP Nagoya and the outside by keeping
       in touch with companies and other organizations that cooperate with ICP. '
 
