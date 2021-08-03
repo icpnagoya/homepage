@@ -43,7 +43,7 @@ career:
     about: In addition to games and programs for international exchange parties.
   - name: Public Relations Department
     location: Nagoya,Japan
-    form_action: https://www.icpnagoya.com/forms/
+    form_action: "../forms"
     about: 'We carry out public relations and management on Instagram and Twitter. '
   - name: Client Liaison　Department
     location: Nagoya,Japan
