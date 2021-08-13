@@ -7,7 +7,7 @@ banner:
   button:
     enable: true
     label: 'Event '
-    link: event.icpnagoya.com
+    link: https://event.icpnagoya.com/
 mission:
   enable: true
   title: Concepts理念
